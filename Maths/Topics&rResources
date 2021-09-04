@@ -1,0 +1,23 @@
+Basic of Modulo Operation
+Calculation of Power using binary exponentiation
+Modulo Multiplicative Inverse
+Prime Number in sqrt(n) 
+Gcd and Lcm 
+Prime Sieve and spf(smallest Prime Factor)
+Euler Totient Function and its properties 
+Extra : 
+Mobius Inversion 
+Chinese Remainder Theorem
+Linear Sieve
+Number Theoretic Function
+
+Resource to Read :
+https://cp-algorithms.com/ go to Algebra section
+https://codeforces.com/blog/entry/8989  Sieve Methods 
+https://codeforces.com/blog/entry/13697 Modification of CRT
+https://codeforces.com/blog/entry/7262 spf
+https://codeforces.com/blog/entry/22317 counting divisors in O(n⅓)
+https://codeforces.com/blog/entry/22229 More sieve stuff
+https://codeforces.com/blog/entry/53925 Mobius Inversion
+https://codeforces.com/blog/entry/61290 CRT
+https://artofproblemsolving.com/community/c90633h1291397 Good Blog covering somewhat everything
